@@ -56,5 +56,5 @@ Power BI: файл .pbix в /bi + [ссылка] (если опубликуеш�
 (добавим позже)
 
 
-Навыки
+## Навыки
 SQL · Tableau · Power BI · Supply Chain · Procurement · KPI · Data Visualization
