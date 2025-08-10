@@ -23,7 +23,7 @@ erDiagram
   RAW_MATERIALS ||--o{ SHIPMENTS : contains
   RATES ||--o{ COSTS : priced_by
   SHIPMENTS ||--o{ COSTS : incurs
-
+'''
 
 KPI
 План–факт затрат (цель: ≤ 3%)
