@@ -1,0 +1,11 @@
+waybill_no,cargo,weight_t,shipper,consignee,forwarder_name,planned_departure,planned_arrival,actual_departure,actual_arrival
+WB00001,Щебень,1000.0,Heidelberg Materials,Client #1,TransSteppe,2025-05-04T09:00:00,2025-05-07T09:00:00,2025-05-04T21:00:00,2025-05-07T09:00:00
+WB00002,Цемент,650.0,Heidelberg Materials,Client #2,Nomad Freight,2025-05-07T09:00:00,2025-05-10T09:00:00,2025-05-07T09:00:00,2025-05-12T09:00:00
+WB00003,Щебень,500.0,Heidelberg Materials,Client #3,ABC Rail,2025-05-10T09:00:00,2025-05-15T09:00:00,2025-05-10T09:00:00,2025-05-16T15:00:00
+WB00004,Уголь,500.0,Heidelberg Materials,Client #4,Eurasia Logistics,2025-05-13T09:00:00,2025-05-16T09:00:00,2025-05-13T09:00:00,2025-05-18T12:00:00
+WB00005,Уголь,650.0,Heidelberg Materials,Client #5,TransSteppe,2025-05-16T09:00:00,2025-05-19T09:00:00,2025-05-16T15:00:00,2025-05-21T15:00:00
+WB00006,Клинкер,650.0,Heidelberg Materials,Client #6,ABC Rail,2025-05-19T09:00:00,2025-05-25T09:00:00,2025-05-19T09:00:00,2025-05-26T15:00:00
+WB00007,Клинкер,500.0,Heidelberg Materials,Client #7,Nomad Freight,2025-05-22T09:00:00,2025-05-28T09:00:00,2025-05-22T09:00:00,2025-05-28T15:00:00
+WB00008,Уголь,1000.0,Heidelberg Materials,Client #8,Nomad Freight,2025-05-25T09:00:00,2025-05-31T09:00:00,2025-05-25T09:00:00,2025-05-31T15:00:00
+WB00009,Щебень,1000.0,Heidelberg Materials,Client #9,Eurasia Logistics,2025-05-28T09:00:00,2025-05-31T09:00:00,2025-05-28T15:00:00,2025-05-31T12:00:00
+WB00010,Клинкер,800.0,Heidelberg Materials,Client #10,TransSteppe,2025-05-31T09:00:00,2025-06-04T09:00:00,2025-05-31T09:00:00,2025-06-04T09:00:00
