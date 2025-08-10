@@ -14,9 +14,6 @@ sql/ готовые запросы
 bi/ файлы Tableau/Power BI (когда будут готовы)
 assets/ скриншоты дашбордов
 
-yaml
-Копировать
-Редактировать
 
 ## ERD (схема данных)
 ```mermaid
@@ -25,6 +22,7 @@ erDiagram
   RAW_MATERIALS ||--o{ SHIPMENTS : contains
   RATES ||--o{ COSTS : priced_by
   SHIPMENTS ||--o{ COSTS : incurs
+
 KPI
 План–факт затрат (цель: ≤ 3%)
 
