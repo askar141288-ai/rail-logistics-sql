@@ -15,12 +15,14 @@ bi/ файлы Tableau/Power BI (когда будут готовы)
 assets/ скриншоты дашбордов
 
 ## ERD (схема данных)
+## ERD (схема данных)
 ```mermaid
 erDiagram
   SUPPLIERS ||--o{ SHIPMENTS : supplies
   RAW_MATERIALS ||--o{ SHIPMENTS : contains
   RATES ||--o{ COSTS : priced_by
   SHIPMENTS ||--o{ COSTS : incurs
+
 KPI
 План–факт затрат (цель: ≤ 3%)
 
