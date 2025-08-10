@@ -8,11 +8,11 @@
 - **Данные**: примерные CSV/скрипты для быстрой проверки.
 
 ## Структура
--**Data/ примеры данных**, 
--**schema/ создание таблиц**, 
--**sql/ готовые запросы**, 
--**bi/ файлы Tableau/Power BI**, 
--**assets/ скриншоты дашбордов**, 
+data/ примеры данных
+schema/ создание таблиц
+sql/ готовые запросы
+bi/ файлы Tableau/Power BI (когда будут готовы)
+assets/ скриншоты дашбордов 
 
 
 
@@ -37,16 +37,13 @@ Tableau Public: [вставь ссылку, когда опубликуешь]
 
 Power BI: файл .pbix в /bi + [ссылка] (если опубликуешь в сервис)
 
-SQL (примеры)
-sql/01_cost_plan_vs_actual.sql
+## SQL (примеры)
+- [sql/01_cost_plan_vs_actual.sql](sql/01_cost_plan_vs_actual.sql)
+- [sql/02_otif_by_plant.sql](sql/02_otif_by_plant.sql)
+- [sql/03_dwell_time_by_station.sql](sql/03_dwell_time_by_station.sql)
+- [sql/04_top10_forwarders.sql](sql/04_top10_forwarders.sql)
+- [sql/05_monthly_cost_trend.sql](sql/05_monthly_cost_trend.sql)
 
-sql/02_otif_by_plant.sql
-
-sql/03_dwell_time_by_station.sql
-
-sql/04_top10_forwarders.sql
-
-sql/05_monthly_cost_trend.sql
 
 Как запустить локально
 Импортируйте CSV из /data в БД (или используйте скрипты из /schema).
