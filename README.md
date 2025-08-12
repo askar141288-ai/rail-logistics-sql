@@ -37,7 +37,9 @@ OTIF (on-time-in-full) и dwell time по станциям
 Utilization (rail/truck), Top-10 экспедиторы, динамика затрат по месяцам
 
 Дашборды
-Tableau Public: [вставь ссылку, когда опубликуешь]
+Tableau Public: Tableau Public: https://public.tableau.com/app/profile/askar.usserov/viz/Logisticcontrol/Logisticcontrol
+![Logistics control dashboard](assets/screenshot_dashboard.png)
+
 
 Power BI: файл .pbix в /bi + [ссылка] (если опубликуешь в сервис)
 
