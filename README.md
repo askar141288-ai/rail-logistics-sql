@@ -41,7 +41,7 @@ Tableau Public: Tableau Public: https://public.tableau.com/app/profile/askar.uss
 ![Logistics control dashboard](assets/screenshot_dashboard.png)
 
 
-Power BI: файл .pbix в /bi + [ссылка] (если опубликуешь в сервис)
+Power BI: файл .pbix в /bi + logistics_costs_dashboard.PNG (если опубликуешь в сервис)
 
 ## SQL (примеры)
 - [sql/01_cost_plan_vs_actual.sql](sql/01_cost_plan_vs_actual.sql)
